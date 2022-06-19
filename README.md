@@ -58,7 +58,7 @@ Anonymous-DropReef/
 ```
 
 ## Usage
-To reproduce the results of our experiments, simply go into each model directory and run the prepared scripts. Please download the datasets and place them in correct locations as given in **Dataset**.
+To reproduce the results of our experiments, simply go into each model directory and run the prepared scripts. Please download the datasets and place them in correct locations as given in [Dataset](#Dataset).
 
 Run the original version (baseline):
 ```
